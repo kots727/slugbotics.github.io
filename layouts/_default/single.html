@@ -14,15 +14,16 @@
     </section>
 {{ end }}
 <div class="container">
-    {{ if (not (isset .Params "promoimg")) }}
-    <h1 class="title">
-        {{ .Title }}
-    </h1>
-    <h2 class="subtitle">
-        {{ .Params.subtitle }}
-    </h2>
-    {{ end }}
     <section class="section">
+        {{ if (not (isset .Params "promoimg")) }}
+            <h1 class="title">
+                {{ .Title }}
+            </h1>
+            <h2 class="subtitle">
+                {{ .Params.subtitle }}
+            </h2>
+            <br>
+        {{ end }}
         <div class="container content">
             {{ .Content }}
         </div>
