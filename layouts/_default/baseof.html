@@ -37,7 +37,7 @@
                         </a>
                 
                         <div class="navbar-dropdown">
-                            {{ range where .Site.RegularPages "Section" "about" }}
+                            {{ range where .Site.RegularPages "Section" "projects" }}
                                 <a class="navbar-item" href="{{.Permalink}}">
                                     {{ .Title }}
                                 </a>
