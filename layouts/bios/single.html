@@ -1,0 +1,11 @@
+{{define "main"}}
+    <section class="section">
+        <div class="container">
+            {{range $.Site.Data.bios }}
+            <p><strong>{{.name}}</strong></p>
+            <p>{{.pronouns}}</p>
+            <p>{{.bio}}</p>
+            {{end}}
+        </div>
+    </section>
+{{end}}
