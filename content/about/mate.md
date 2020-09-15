@@ -2,6 +2,7 @@
 title: "MATE"
 subtitle: "An underwater robotics competititon using ROVs, or Remotely Operated Vehicles"
 promoimg: "rov_underwater_darkened.jpg"
+categories: [about]
 ---
 
 ## What is MATE?
