@@ -1,6 +1,14 @@
 {{define "main"}}
     <section class="section">
         <div class="container">
+            <div class="columns is-centered">
+                <div class="column is-narrow">
+                    <div class="content">
+                        {{.Content}}
+                    </div>
+                </div>
+            </div>
+
             {{range $.Site.Data.bios }}
             <p><strong>{{.name}}</strong></p>
             <p>{{.pronouns}}</p>
