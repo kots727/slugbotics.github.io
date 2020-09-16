@@ -16,7 +16,7 @@
         </script>
 
         
-        <div class="columns">
+        <div class="columns is-variable is-7">
         
         {{$biocount := 0}}
         {{range $.Site.Data.bios }}
@@ -28,7 +28,7 @@
             <!-- Column reset when appropriate -->
             {{if (and (gt $biocount 0) (eq (mod $biocount 4) 0))}}
                 </div>
-                <div class="columns">
+                <div class="columns is-variable is-7">
             {{end}}
             
             <!-- Preview -->
