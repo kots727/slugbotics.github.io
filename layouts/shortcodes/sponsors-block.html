@@ -1,0 +1,16 @@
+<!-- Break Markdown formatting block -->
+</div>
+
+<div class="columns is-multiline is-centered">
+    {{ range (readDir "/static/images/sponsors") }}
+    
+    <div class="column is-one-fifth">
+        <figure class="image">
+            <img src="/images/sponsors/{{.Name}}">
+        </figure>
+    </div>
+    {{ end }}
+</div>
+
+<!-- resume Markdown formatting block -->
+<div class="content">
