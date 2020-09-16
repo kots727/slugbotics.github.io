@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            {{ .Title }}
+        </title>
+
+        <link rel="stylesheet" href="/vendored/bulma/bulma.min.css">
+        <link rel="stylesheet" href="/vendored/fontawesome/css/all.min.css">
+    </head>
+    <body>
+        <nav class="navbar" role="navigation" aria-label="main navigation">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="/">
+                    <p>SB</p>
+                </a>
+            
+                <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="true" data-target="slugbotics-navbar">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+        
+            <div id="slugbotics-navbar" class="navbar-menu">
+                <div class="navbar-end">
+                    <a class="navbar-item" href="/">
+                        Home
+                    </a>
+                    
+                    <a class="navbar-item" href="/join">
+                        Join
+                    </a>
+
+                    <a class="navbar-item" href="/about">
+                        About
+                    </a>
+
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-link" href="/projects">
+                        Projects
+                        </a>
+                
+                        <div class="navbar-dropdown">
+                            {{ range where .Site.RegularPages "Section" "projects" }}
+                                <a class="navbar-item" href="{{.Permalink}}">
+                                    {{ .Title }}
+                                </a>
+                            {{ end }}
+                        </div>
+                    </div>
+
+                    <a class="navbar-item" href="/team">
+                        Team
+                    </a>
+
+                    <a class="navbar-item" href="/sponsors">
+                        Sponsors/Donate 
+                    </a>
+
+                    <a class="navbar-item" href="/contact">
+                        Contact Us
+                    </a>
+                </div>
+            </div>  
+        </nav>
+        {{ block "main" . }}
+        {{ end }}
+
+        {{block "footer" . }}
+        {{ end }}
+
+        <script src="/vendored/bulma/nav.js"></script>
+    </body>
+</html>

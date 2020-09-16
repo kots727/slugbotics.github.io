@@ -1,0 +1,38 @@
+[
+    {
+        "timestamp": "2020-09-15T06:25:16.552Z",
+        "name": "Isaac Trimble-Pederson",
+        "pronouns": "he/him",
+        "bio": "I am a person who does code things"
+    },
+    {
+        "timestamp": "2020-09-15T06:25:31.942Z",
+        "name": "Rohan Tuli",
+        "pronouns": "he/him",
+        "bio": "I set things on fire occasionally"
+    },
+    {
+        "timestamp": "2020-09-15T06:25:48.256Z",
+        "name": "Theo Kell",
+        "pronouns": "he/him",
+        "bio": "grr modern technology should be banned"
+    },
+    {
+        "timestamp": "2020-09-15T06:25:48.256Z",
+        "name": "Ryan Meckel",
+        "pronouns": "he/him",
+        "bio": "he"
+    },
+    {
+        "timestamp": "2020-09-15T06:25:48.256Z",
+        "name": "Wren Sakai",
+        "pronouns": "he/him",
+        "bio": "food man"
+    },
+    {
+        "timestamp": "2020-09-15T06:25:48.256Z",
+        "name": "Andrew Gavgavian",
+        "pronouns": "he/him",
+        "bio": "Systems tiiiiime"
+    }
+]
