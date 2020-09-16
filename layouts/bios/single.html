@@ -1,19 +1,82 @@
 {{define "main"}}
-    <section class="section">
-        <div class="container">
-            <div class="columns is-centered">
-                <div class="column is-narrow">
-                    <div class="content">
-                        {{.Content}}
-                    </div>
+<section class="section">
+    <div class="container">
+        <div class="columns is-centered">
+            <div class="column is-narrow">
+                <div class="content">
+                    {{.Content}}
                 </div>
             </div>
-
-            {{range $.Site.Data.bios }}
-            <p><strong>{{.name}}</strong></p>
-            <p>{{.pronouns}}</p>
-            <p>{{.bio}}</p>
-            {{end}}
         </div>
-    </section>
+
+        <script>
+            slugbotics_modal_presentation = (id) => {
+                document.getElementById(id).classList.toggle("is-active");
+            }
+        </script>
+
+        
+        <div class="columns">
+        
+        {{$biocount := 0}}
+        {{range $.Site.Data.bios }}
+            {{ $id := (slice (replace (urlize .name) "-" "_") | append "_modal") }}
+            <!-- <button class="button is-primary" onclick="slugbotics_modal_presentation('{{$id}}')">
+                Press Here for {{.name}}'s bio!
+            </button> -->
+
+            <!-- Column reset when appropriate -->
+            {{if (and (gt $biocount 0) (eq (mod $biocount 4) 0))}}
+                </div>
+                <div class="columns">
+            {{end}}
+            
+            <!-- Preview -->
+            <div class="column is-one-quarter" onclick="slugbotics_modal_presentation('{{$id}}')">
+                <figure class="image is-square">
+                    <img src="/images/bios/{{.name | urlize}}.jpg">
+                </figure>
+                <p class="has-text-centered">{{.name}} | {{.pronouns}}</p>
+                <!-- <div class="buttons is-centered">
+                    <button class="button is-primary" onclick="slugbotics_modal_presentation('{{$id}}')">
+                        View...
+                    </button>
+                </div> -->
+            </div>
+
+            <!-- Modal class for associated bio -->
+            <div class="modal" id="{{$id}}">
+                <div class="modal-background" onclick="slugbotics_modal_presentation('{{$id}}')"></div>
+                <div class="modal-content">
+                    <div class="card">
+                        <div class="card-image">
+                            <figure class="image is-square">
+                                <img src="/images/bios/{{.name | urlize}}.jpg" alt="{{.name}}">
+                            </figure>
+                        </div>
+                        <div class="card-content">
+                            <div class="media">
+                                <div class="media-left">
+                                </div>
+                                <div class="media-content">
+                                    <p class="title is-4">{{.name}}</p>
+                                    <p class="subtitle is-6">{{.pronouns}}</p>
+                                </div>
+                            </div>
+                            <div class="content">
+                                {{.bio}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="modal-close is-large" aria-label="close"
+                    onclick="slugbotics_modal_presentation('{{$id}}')"></button>
+            </div>
+
+            <!-- Increment -->
+            {{$biocount = (add $biocount 1)}}
+        {{end}}
+        </div>
+    </div>
+</section>
 {{end}}
