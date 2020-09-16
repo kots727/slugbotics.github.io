@@ -12,3 +12,5 @@ and autonomous analysis. Since then, we continue to grow and learn, tackling
 new projects, and introducing others to the field of robotics.
 
 {{<image-block "/images/about/promo/rov_underwater_darkened.jpg" "This is an example of an image embedded from Markdown">}}
+
+{{<image-banner "/images/about/promo/rov_underwater_darkened.jpg">}}
