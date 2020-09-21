@@ -1,0 +1,6 @@
+/* Disable horizontal scrolling */
+
+html, body {
+    overflow-x: hidden;
+}
+
