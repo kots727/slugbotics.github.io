@@ -40,19 +40,19 @@
         
             <div id="slugbotics-navbar" class="navbar-menu">
                 <div class="navbar-end">
-                    <a class="navbar-item" href="/">
+                    <a class="navbar-item {{ if eq .Site.Params.Highlight "Home" }}sb-highlight{{ end }}" href="/">
                         Home
                     </a>
                     
-                    <a class="navbar-item" href="/join">
+                    <a class="navbar-item {{ if eq .Site.Params.Highlight "Join" }}sb-highlight{{ end }}" href="/join">
                         Join
                     </a>
 
-                    <a class="navbar-item" href="/about">
+                    <a class="navbar-item {{ if eq .Site.Params.Highlight "About" }}sb-highlight{{ end }}" href="/about">
                         About
                     </a>
 
-                    <div class="navbar-item has-dropdown is-hoverable">
+                    <div class="navbar-item has-dropdown is-hoverable {{ if eq .Site.Params.Highlight "Projects" }}sb-highlight{{ end }}">
                         <a class="navbar-link" href="/projects">
                         Projects
                         </a>
@@ -70,11 +70,11 @@
                         Team
                     </a>
 
-                    <a class="navbar-item" href="/sponsors">
+                    <a class="navbar-item {{ if eq .Site.Params.Highlight "Sponsors" }}sb-highlight{{ end }}" href="/sponsors">
                         Sponsors/Donate 
                     </a>
 
-                    <a class="navbar-item" href="/contact">
+                    <a class="navbar-item {{ if eq .Site.Params.Highlight "Contact" }}sb-highlight{{ end }}" href="/contact">
                         Contact Us
                     </a>
                 </div>

@@ -7,3 +7,18 @@ html, body {
 pre {
     background-color: #1e1e24;
 }
+
+.sb-highlight {
+    background-color: #fdff00 !important;
+    color: black !important;
+}
+
+.sb-highlight:hover {
+    background-color: #fdff00 !important;
+    color: black !important;
+}
+
+.sb-highlight:visited {
+    background-color: #fdff00 !important;
+    color: black !important;
+}

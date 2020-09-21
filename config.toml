@@ -3,3 +3,6 @@ languageCode = "en-us"
 title = "Slugbotics"
 
 ignoreFiles = ["\\.gitkeep"]
+
+[params]
+    Highlight = "Join"
