@@ -24,28 +24,25 @@
             </h2>
             <br>
         {{ end }}
-        <div class="container content">
-            {{ .Content }}
-        </div>
     </section>
 
     <!-- TODO: Range over projects and show hero banners that are clickable -->
-    {{range .Pages}}
-    <a href="{{.Permalink}}">
-        <section class="hero is-info" style="background-image: url('/images/about/promo/{{.Params.promoimg}}'); background-position: center; background-size: cover;">
-            <div class="hero-body">
-                <div class="container">
-                    <h1 class="title">
-                        {{ .Title }}
-                    </h1>
-                    <h2 class="subtitle">
-                        {{ .Params.subtitle }}
-                    </h2>
-                </div>
+    <div class="columns is-multiline" id="sb-list">
+        {{range .Pages}}
+            <div class="column is-full sb-navitem">
+                <a href="{{.Permalink}}">
+                    <figure class="image sb-navimgcontainer">
+                    <img class="sb-navimg" src="/images/about/promo/{{.Params.promoimg}}">
+                    <div class="sb-navcontent">
+                        <h1 class="title">{{.Title}}</h1>
+                    </div>
+                    <div class="sb-disclosure">
+                        <h1 class="title">&rarr;</h1>
+                    </div>
+                </figure>
+                </a>
             </div>
-        </section>
-        <br>
-    </a>
-    {{end}}
+        {{end}}
+    </div>
 </div>
 {{ end }}
