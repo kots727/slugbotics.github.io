@@ -58,7 +58,7 @@
                         </a>
                 
                         <div class="navbar-dropdown">
-                            {{ range where .Site.RegularPages "Section" "projects" }}
+                            {{ range sort (where .Site.RegularPages "Section" "projects") ".Params.priority" "asc" }}
                                 <a class="navbar-item" href="{{.Permalink}}">
                                     {{ .Title }}
                                 </a>
