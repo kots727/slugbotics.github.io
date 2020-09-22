@@ -1,3 +1,18 @@
+{{ define "promo" }}
+    <!-- Promo banner -->
+    {{if ne .Params.bannertext ""}}
+    <article class="message">
+        <div class="message-body has-text-centered">
+            {{if ne .Params.bannerURL ""}}
+            <a href="{{.Params.bannerURL}}">{{.Params.bannertext}} &rarr;</a>
+            {{else}}
+            {{.Params.bannertext}}
+            {{end}}
+        </div>
+    </article>
+    {{end}}
+{{ end }}
+
 {{ define "main" }}
 <section class="hero is-dark is-fullheight-with-navbar">
     <div class="hero-body">
