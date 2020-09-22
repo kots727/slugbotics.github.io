@@ -46,10 +46,19 @@ pre {
     color: black !important;
 }
 
-
-
 @media only screen and (min-width: 1024px) {
     .sb-list-item {
         border-radius: 12px;
     }
+}
+
+@media only screen and (max-width: 1024px) {
+    .sb-bio {
+        text-decoration: underline !important;
+    }
+}
+
+.sb-bio:hover {
+    text-decoration: underline !important;
+    cursor: pointer;
 }
