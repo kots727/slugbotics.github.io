@@ -1,38 +1,50 @@
 [
     {
         "timestamp": "2020-09-15T06:25:16.552Z",
-        "name": "Isaac Trimble-Pederson",
+        "firstName": "Isaac",
+        "lastName": "Trimble-Pederson",
         "pronouns": "he/him",
-        "bio": "I am a person who does code things"
+        "bio": "I am a person who does code things",
+        "admin": "no"
     },
     {
         "timestamp": "2020-09-15T06:25:31.942Z",
-        "name": "Rohan Tuli",
+        "firstName": "Rohan",
+        "lastName": "Tuli",
         "pronouns": "he/him",
-        "bio": "I set things on fire occasionally"
+        "bio": "I set things on fire occasionally",
+        "admin": "yes"
     },
     {
         "timestamp": "2020-09-15T06:25:48.256Z",
-        "name": "Theo Kell",
+        "firstName": "Theo",
+        "lastName": "Kell",
         "pronouns": "he/him",
-        "bio": "grr modern technology should be banned"
+        "bio": "grr modern technology should be banned",
+        "admin": "yes"
     },
     {
         "timestamp": "2020-09-15T06:25:48.256Z",
-        "name": "Ryan Meckel",
+        "firstName": "Ryan",
+        "lastName": "Meckel",
         "pronouns": "he/him",
-        "bio": "he"
+        "bio": "he",
+        "admin": "yes"
     },
     {
         "timestamp": "2020-09-15T06:25:48.256Z",
-        "name": "Wren Sakai",
+        "firstName": "Wren",
+        "lastName": "Sakai",
         "pronouns": "he/him",
-        "bio": "food man"
+        "bio": "food man",
+        "admin": "yes"
     },
     {
         "timestamp": "2020-09-15T06:25:48.256Z",
-        "name": "Andrew Gavgavian",
+        "firstName": "Andrew",
+        "lastName": "Gavgavian",
         "pronouns": "he/him",
-        "bio": "Systems tiiiiime"
+        "bio": "Systems tiiiiime",
+        "admin": "yes"
     }
 ]

@@ -30,13 +30,13 @@
     </section>
 
     <!-- TODO: Range over projects and show hero banners that are clickable -->
-    {{range .Pages}}
+    {{range sort (where .Site.RegularPages "Section" "projects") ".Params.priority" "asc"}}
     <a href="{{.Permalink}}">
-        <section class="hero is-link" style="background-image: url('/images/about/promo/{{.Params.promoimg}}'); background-position: center; background-size: cover;">
+        <section class="hero is-info sb-list-item" style="background-image: url('/images/about/promo/{{.Params.promoimg}}'); background-position: center; background-size: cover;">
             <div class="hero-body">
                 <div class="container">
                     <h1 class="title">
-                        {{ .Title }}
+                        {{ .Title }} &rarr;
                     </h1>
                     <h2 class="subtitle">
                         {{ .Params.subtitle }}
