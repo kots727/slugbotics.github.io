@@ -5,7 +5,11 @@
         "lastName": "Trimble-Pederson",
         "pronouns": "he/him",
         "bio": "I am a person who does code things",
-        "admin": "no"
+        "admin": "no",
+        "linkedin": "https://www.linkedin.com/in/isaac-trimble-pederson-b48173152/",
+        "github": "https://github.com/wtpisaac",
+        "website": "https://www.wtpisaac.com/",
+        "gitlab": "https://gitlab.com/wtpisaac"
     },
     {
         "timestamp": "2020-09-15T06:25:31.942Z",
@@ -13,7 +17,11 @@
         "lastName": "Tuli",
         "pronouns": "he/him",
         "bio": "I set things on fire occasionally",
-        "admin": "yes"
+        "admin": "yes",
+        "linkedin": "",
+        "github": "",
+        "website": "",
+        "gitlab": ""
     },
     {
         "timestamp": "2020-09-15T06:25:48.256Z",
@@ -21,7 +29,11 @@
         "lastName": "Kell",
         "pronouns": "he/him",
         "bio": "grr modern technology should be banned",
-        "admin": "yes"
+        "admin": "yes",
+        "linkedin": "",
+        "github": "",
+        "website": "https://fsf.org/",
+        "gitlab": ""
     },
     {
         "timestamp": "2020-09-15T06:25:48.256Z",
@@ -29,7 +41,11 @@
         "lastName": "Meckel",
         "pronouns": "he/him",
         "bio": "he",
-        "admin": "yes"
+        "admin": "yes",
+        "linkedin": "",
+        "github": "",
+        "website": "",
+        "gitlab": ""
     },
     {
         "timestamp": "2020-09-15T06:25:48.256Z",
@@ -37,7 +53,11 @@
         "lastName": "Sakai",
         "pronouns": "he/him",
         "bio": "food man",
-        "admin": "yes"
+        "admin": "yes",
+        "linkedin": "",
+        "github": "",
+        "website": "",
+        "gitlab": ""
     },
     {
         "timestamp": "2020-09-15T06:25:48.256Z",
@@ -45,6 +65,10 @@
         "lastName": "Gavgavian",
         "pronouns": "he/him",
         "bio": "Systems tiiiiime",
-        "admin": "yes"
+        "admin": "yes",
+        "linkedin": "",
+        "github": "",
+        "website": "",
+        "gitlab": ""
     }
 ]
