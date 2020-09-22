@@ -46,6 +46,10 @@ pre {
     color: black !important;
 }
 
+#sb-bannerframe {
+    margin: 0;
+}
+
 @media only screen and (min-width: 1024px) {
     .sb-list-item {
         border-radius: 12px;
