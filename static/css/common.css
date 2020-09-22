@@ -45,3 +45,11 @@ pre {
 #sb-bottombanner-text:visited {
     color: black !important;
 }
+
+
+
+@media only screen and (min-width: 1024px) {
+    .sb-list-item {
+        border-radius: 12px;
+    }
+}
