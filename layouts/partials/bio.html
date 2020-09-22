@@ -13,7 +13,11 @@
 <!-- Preview -->
 <div class="column is-one-quarter sb-bio" onclick="slugbotics_modal_presentation('{{$id}}')">
     <figure class="image is-square">
-        <img src="/images/bios/{{$name | urlize}}.jpg">
+        {{if (fileExists (delimit (append (append (slice ".jpg") (slice ($name | urlize))) (slice "/static/images/bios/")) ""))}}
+            <img src="/images/bios/{{$name | urlize}}.jpg">
+        {{else}}
+            <img src="/images/bios/woahtreesman.jpg">
+        {{end}}
     </figure>
     <p class="has-text-centered">{{$name}} | {{.context.pronouns}} &rarr;</p>
     <!-- <div class="buttons is-centered">
@@ -35,7 +39,11 @@
             <div class="columns is-centered">
                 <div class="column">
                     <figure class="image is-square">
-                        <img src="/images/bios/{{$name | urlize}}.jpg">
+                        {{if (fileExists (delimit (append (append (slice ".jpg") (slice ($name | urlize))) (slice "/static/images/bios/")) ""))}}
+                            <img src="/images/bios/{{$name | urlize}}.jpg">
+                        {{else}}
+                            <img src="/images/bios/woahtreesman.jpg">
+                        {{end}}
                     </figure>
                 </div>
             </div>
