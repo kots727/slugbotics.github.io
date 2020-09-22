@@ -22,3 +22,26 @@ pre {
     background-color: #fdff00 !important;
     color: black !important;
 }
+
+#sb-bottombanner {
+    background-color: #fdff00 !important;
+
+    display:flex;
+    align-items:center;
+}
+
+#sb-bottombanner-content {
+    width: 100%;
+}
+
+#sb-bottombanner-text {
+    color: black !important;
+}
+
+#sb-bottombanner-text:hover {
+    color: black !important;
+}
+
+#sb-bottombanner-text:visited {
+    color: black !important;
+}

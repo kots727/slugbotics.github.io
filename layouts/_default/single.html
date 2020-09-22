@@ -3,12 +3,16 @@
     <section class="hero is-dark is-large" style="background-image: url('/images/about/promo/{{.Params.promoimg}}'); background-position: center; background-size: cover;">
         <div class="hero-body">
             <div class="container">
-                <h1 class="title">
-                    {{ .Title }}
-                </h1>
-                <h2 class="subtitle">
-                    {{ .Params.subtitle }}
-                </h2>
+                <div class="columns">
+                    <div class="column is-narrow" id="sb-promo-content">
+                        <h1 class="title">
+                            {{ .Title }}
+                        </h1>
+                        <h2 class="subtitle">
+                            {{ .Params.subtitle }}
+                        </h2>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
