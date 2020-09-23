@@ -1,0 +1,20 @@
+<!-- Break Markdown formatting block -->
+</div>
+
+<!-- Image block -->
+
+<div class="columns is-centered">
+    <div class="column is-four-fifths">
+        <figure class="image">
+            <img src="{{ .Get 0 }}">
+        </figure>
+        {{if not (eq (.Get 1) "")}}
+        <br>
+        <p><em>{{.Get 1}}</em></p>
+        <br>
+        {{ end }}
+    </div>
+</div>
+
+<!-- resume Markdown formatting block -->
+<div class="content">

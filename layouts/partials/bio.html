@@ -1,0 +1,100 @@
+{{ $name := (delimit (append (append (slice .context.lastName) (slice " ")) (slice .context.firstName)) " ")}}
+{{ $id := (slice (replace (urlize $name) "-" "_") | append "_modal") }}
+<!-- <button class="button is-primary" onclick="slugbotics_modal_presentation('{{$id}}')">
+                Press Here for {{.name}}'s bio!
+            </button> -->
+
+<!-- Column reset when appropriate -->
+{{if (and (gt .biocount 0) (eq (mod .biocount 4) 0))}}
+</div>
+<div class="columns is-variable is-7">
+{{end}}
+
+<!-- Preview -->
+<div class="column is-one-quarter sb-bio" onclick="slugbotics_modal_presentation('{{$id}}')">
+    <figure class="image is-square">
+        {{if (fileExists (delimit (append (append (slice ".jpg") (slice ($name | urlize))) (slice "/static/images/bios/")) ""))}}
+            <img src="/images/bios/{{$name | urlize}}.jpg">
+        {{else}}
+            <img src="/images/bios/woahtreesman.jpg">
+        {{end}}
+    </figure>
+    <p class="has-text-centered">{{$name}} &rarr;</p>
+    <!-- <div class="buttons is-centered">
+                <button class="button is-primary" onclick="slugbotics_modal_presentation('{{$id}}')">
+                    View...
+                </button>
+            </div> -->
+</div>
+
+<!-- Modal class for associated bio -->
+<div class="modal" id="{{$id}}">
+    <div class="modal-background" onclick="slugbotics_modal_presentation('{{$id}}')"></div>
+    <div class="modal-card">
+        <header class="modal-card-head">
+            <p class="modal-card-title">{{$name}}</p>
+            <button id="sb-card-button" class="delete is-danger" aria-label="close" onclick="slugbotics_modal_presentation('{{$id}}')"></button>
+        </header>
+        <section class="modal-card-body">
+            <div class="columns is-centered">
+                <div class="column">
+                    <figure class="image is-square">
+                        {{if (fileExists (delimit (append (append (slice ".jpg") (slice ($name | urlize))) (slice "/static/images/bios/")) ""))}}
+                            <img src="/images/bios/{{$name | urlize}}.jpg">
+                        {{else}}
+                            <img src="/images/bios/woahtreesman.jpg">
+                        {{end}}
+                    </figure>
+                </div>
+            </div>
+            <div class="columns">
+                <div class="column">
+                    {{if ne .context.pronouns ""}}
+                    <p>Pronouns: {{.context.pronouns}}</p>
+                    {{end}}
+                    <p><strong>About</strong></p>
+                    <p>{{.context.bio}}</p>
+                </div>
+            </div>
+        </section>
+        <footer class="modal-card-foot">
+            <div class="buttons is-centered sb-force-fullwidth">
+            {{if ne .context.linkedin ""}}
+            <a href="{{.context.linkedin}}">
+                <button class="button is-link">
+                    <i class="fab fa-linkedin"></i>
+                    <span class="is-hidden-mobile">&nbsp;LinkedIn</span>
+                </button>
+            </a>
+            {{end}}
+
+            {{if ne .context.github ""}}
+            <a href="{{.context.github}}">
+                <button class="button is-link">
+                    <i class="fab fa-github"></i>
+                    <span class="is-hidden-mobile">&nbsp;GitHub</span>
+                </button>
+            </a>
+            {{end}}
+
+            {{if ne .context.gitlab ""}}
+            <a href="{{.context.gitlab}}">
+                <button class="button is-link">
+                    <i class="fab fa-gitlab"></i>
+                    <span class="is-hidden-mobile">&nbsp;GitLab</span>
+                </button>
+            </a>
+            {{end}}
+
+            {{if ne .context.website ""}}
+            <a href="{{.context.website}}">
+                <button class="button is-link">
+                    <i class="fas fa-globe"></i>
+                    <span class="is-hidden-mobile">&nbsp;Website</span>
+                </button>
+            </a>
+            {{end}}
+            </div>
+        </footer>
+    </div>
+</div>

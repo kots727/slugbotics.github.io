@@ -1,0 +1,36 @@
+<!-- Break Markdown formatting block -->
+</div>
+
+<script>
+    slugbotics_modal_presentation = (id) => {
+        document.getElementById(id).classList.toggle("is-active");
+    }
+</script>
+
+<div class="columns is-variable is-7">
+
+{{$biocount := 0}}
+{{range where (sort (sort $.Site.Data.bios "firstName" "asc") "lastName" "asc")  "admin" "yes"}}
+    <!-- Partial for given context -->
+    {{ partial "bio" (dict "context" . "biocount" $biocount)}}
+
+    <!-- Increment -->
+    {{$biocount = (add $biocount 1)}}
+{{end}}
+</div>
+
+<hr>
+
+<div class="columns is-variable is-7">
+{{$biocount = 0}}
+{{range where (sort (sort $.Site.Data.bios "firstName" "asc") "lastName" "asc")  "admin" "!=" "yes"}}
+    <!-- Partial for given context -->
+    {{ partial "bio" (dict "context" . "biocount" $biocount)}}
+
+    <!-- Increment -->
+    {{$biocount = (add $biocount 1)}}
+{{end}}
+</div>
+
+<!-- resume Markdown formatting block -->
+<div class="content">

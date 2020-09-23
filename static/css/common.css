@@ -1,0 +1,76 @@
+/* Disable horizontal scrolling */
+
+html, body {
+    overflow-x: hidden;
+}
+
+pre {
+    background-color: #1e1e24;
+}
+
+.sb-highlight {
+    background-color: #fdff00 !important;
+    color: black !important;
+}
+
+.sb-highlight:hover {
+    background-color: #fdff00 !important;
+    color: black !important;
+}
+
+.sb-highlight:visited {
+    background-color: #fdff00 !important;
+    color: black !important;
+}
+
+#sb-bottombanner {
+    background-color: #fdff00 !important;
+
+    display:flex;
+    align-items:center;
+}
+
+#sb-bottombanner-content {
+    width: 100%;
+}
+
+#sb-bottombanner-text {
+    color: black !important;
+}
+
+#sb-bottombanner-text:hover {
+    color: black !important;
+}
+
+#sb-bottombanner-text:visited {
+    color: black !important;
+}
+
+#sb-bannerframe {
+    margin: 0;
+}
+
+#sb-card-button {
+    background-color: #fdff00 !important;
+}
+
+.sb-force-fullwidth {
+    width: 100%;
+}
+
+@media only screen and (min-width: 1024px) {
+    .sb-list-item {
+        border-radius: 12px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .sb-bio {
+        text-decoration: underline !important;
+    }
+}
+
+.sb-bio:hover {
+    text-decoration: underline !important;
+    cursor: pointer;
+}

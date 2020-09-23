@@ -1,0 +1,51 @@
+{{ define "main" }}
+{{ if (isset .Params "promoimg") }}
+    <section class="hero is-primary is-large" style="background-image: url('/images/about/promo/{{.Params.promoimg}}'); background-position: center; background-size: cover;">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title">
+                    {{ .Title }}
+                </h1>
+                <h2 class="subtitle">
+                    {{ .Params.subtitle }}
+                </h2>
+            </div>
+        </div>
+    </section>
+{{ end }}
+<div class="container">
+    <section class="section">
+        {{ if (not (isset .Params "promoimg")) }}
+            <h1 class="title">
+                {{ .Title }}
+            </h1>
+            <h2 class="subtitle">
+                {{ .Params.subtitle }}
+            </h2>
+            <br>
+        {{ end }}
+        <div class="container content">
+            {{ .Content }}
+        </div>
+    </section>
+
+    <!-- TODO: Range over projects and show hero banners that are clickable -->
+    {{range sort (where .Site.RegularPages "Section" "projects") ".Params.priority" "asc"}}
+    <a href="{{.Permalink}}">
+        <section class="hero is-info sb-list-item" style="background-image: url('/images/about/promo/{{.Params.promoimg}}'); background-position: center; background-size: cover;">
+            <div class="hero-body">
+                <div class="container">
+                    <h1 class="title">
+                        {{ .Title }} &rarr;
+                    </h1>
+                    <h2 class="subtitle">
+                        {{ .Params.subtitle }}
+                    </h2>
+                </div>
+            </div>
+        </section>
+        <br>
+    </a>
+    {{end}}
+</div>
+{{ end }}

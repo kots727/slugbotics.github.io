@@ -1,6 +1,5 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
+#promoimg: "INSERT_NAME_OF_IMAGE_HERE"
 ---
 
