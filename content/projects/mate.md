@@ -41,7 +41,7 @@ gain experience on Slugbotics that no lecture hall can offer.
 ### 2018-19 ROV: BIG SLAB
 {{<image-block "/images/about/mate/bigslab.jpg" "Our ROV, BIG SLAB">}}
 
-{{<image-block "/images/about/mate/bigslabprobe.jpg" "BIG SLAB's microROV">}}
+{{<image-block "/images/about/mate/bigslabprobe.jpg" "BIG SLAB's deployable microROV">}}
 
 {{<image-block "/images/about/mate/bigslabcontrol.jpg" "BIG SLAB's Control Station">}}
 
