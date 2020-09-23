@@ -136,8 +136,8 @@ send you an invite via email within 24 hours of your submission.
 
 ## Introductory Meetings
 Two introductory meetings will be held over Zoom. You should attend **one** of
-these two meetings. If you join using the form above, you will be notified of
-when these meetings occur.
+these two meetings. If you join our Slack through the form above, you will be
+notified of when these meetings occur.
 
 The Zoom links are included below. Click on a date to join the Zoom room.
 
