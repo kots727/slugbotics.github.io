@@ -349,7 +349,7 @@
       "github": "",
       "gitlab": "",
       "website": "",
-      "admin": "no"
+      "admin": "yes"
     },
     {
       "firstName": "Celeste",
@@ -372,5 +372,16 @@
       "gitlab": "",
       "website": "",
       "admin": "no"
+    },
+    {
+        "firstName": "Neal",
+        "lastName": "Chokshi",
+        "pronouns": "he/him",
+        "bio": "Neal is a second year Computer Science major, and is a Formula 1/10 Lead on Slugbotics. On the team, he leads others in developing and testing the autonomous algorithms necessary to drive the car.",
+        "linkedin": "https://www.linkedin.com/in/neal-chokshi-73b00a192/",
+        "github": "",
+        "gitlab": "",
+        "website": "",
+        "admin": "yes"
     }
   ]
