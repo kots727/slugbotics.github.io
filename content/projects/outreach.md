@@ -9,7 +9,7 @@ At Slugbotics, we aim to bring everyone into the fold of robotics. This means
 going above and beyond UCSC students participating in our teams, and branching
 out to introduce others in our community to the awesome potential of robotics.
 
-# MATE Regionals
+# MATE Regional Competitions
 
 {{<image-block "/images/outreach/regional.jpg">}}
 
