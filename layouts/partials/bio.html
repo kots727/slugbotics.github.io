@@ -19,7 +19,7 @@
             <img src="/images/bios/woahtreesman.jpg">
         {{end}}
     </figure>
-    <p class="has-text-centered">{{$name}} | {{.context.pronouns}} &rarr;</p>
+    <p class="has-text-centered">{{$name}}{{if ne .context.pronouns ""}}| {{.context.pronouns}}{{end}} &rarr;</p>
     <!-- <div class="buttons is-centered">
                 <button class="button is-primary" onclick="slugbotics_modal_presentation('{{$id}}')">
                     View...
@@ -49,7 +49,9 @@
             </div>
             <div class="columns">
                 <div class="column">
+                    {{if ne .context.pronouns ""}}
                     <p>Pronouns: {{.context.pronouns}}</p>
+                    {{end}}
                     <p><strong>About</strong></p>
                     <p>{{.context.bio}}</p>
                 </div>
