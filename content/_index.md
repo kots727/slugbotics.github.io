@@ -1,6 +1,6 @@
 ---
 title: ""
-bannertext: "Come join Slugbotics!"
-bannerURL: "/join"
+bannertext: "Help Slugbotics this Giving Day"
+bannerURL: "/sponsors"
 ---
 
