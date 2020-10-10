@@ -4,6 +4,13 @@ subtitle: "Here are the opportunities you'll have on Slugbotics"
 promoimg: "joincrop.jpg"
 ---
 
+**Note: We have concluded recruiting new members for the 2020-21 school
+year, and will not be bringing in new members for onboarding. If you are
+still interested in interacting with us, or have prior experience and
+would like to join the team, contact us at slugbotics@ucsc.edu**
+
+---
+
 # Join Slugbotics
 We're glad that you're interested in joining our team! Here at Slugbotics, we
 wish to bring every aspiring engineer into the field of robotics, regardless
@@ -123,26 +130,10 @@ On the Outreach subteam, you'll work to create projects and events to introduce
 a broad set of students to robotics.
 
 # How to Join
-The link below will take you to a Google form where you can register your
-interest for the team. Once you register your interest, you will be given a link
-on the form that will allow you to sign up for our Slack. Slack is a group
-messaging platform that we use to communicate on Slugbotics. This will let you
-get in touch with us, as well as others joining the team!
+We take in new members at the beginning of Fall quarter. We've concluded
+recruiting new members for this year, and will take in more members for
+onboarding in Fall 2021.
 
-If you submitted the form but did not get a link (or clicked past it), we will
-send you an invite via email within 24 hours of your submission.
-
-[Click here to join!](https://docs.google.com/forms/d/e/1FAIpQLSeHFDgd3U-cBa2P84lqc1AreXhElzBBydyouB_D2jvBybs2Kg/viewform)
-
-## Introductory Meetings
-Two introductory meetings will be held over Zoom. You should attend **one** of
-these two meetings. If you join our Slack through the form above, you will be
-notified of when these meetings occur.
-
-The Zoom links are included below. Click on a date to join the Zoom room.
-
-[**Meeting 1:** Wednesday, September 30, 2020 at 3:20PM](https://ucsc.zoom.us/j/97587952661?pwd=dDZEU2RDWkJteUlJRUhkWkNBeWRSUT09)
-
-[**Meeting 2:** Saturday, October 3, 2020 at 6:00PM](https://ucsc.zoom.us/j/99015244753?pwd=WFZlNHVOTlgwS2dIRWdwcHF1eGRJQT09)
-
-{{<bottombanner "Click here to join the team" "https://docs.google.com/forms/d/e/1FAIpQLSeHFDgd3U-cBa2P84lqc1AreXhElzBBydyouB_D2jvBybs2Kg/viewform">}}
+If you are still interested in interacting with us, or have prior experience
+and would like to try and join our team, contact us at
+slugbotics@ucsc.edu
