@@ -17,4 +17,6 @@ providing hands-on robotics experience in the UCSC community, and beyond.
 
 [Missed Giving Day? It's not too late to contribute - click here to make a donation to our team](https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=780&cid=1749&dids=990)
 
-*A list of donors will be posted to this page shortly.*
+### Our Donors
+
+{{<donors-block>}}

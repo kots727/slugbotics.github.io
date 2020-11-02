@@ -1,0 +1,14 @@
+<!-- Break Markdown formatting block -->
+</div>
+
+<div class="columns is-multiline">
+    {{range sort (sort $.Site.Data.donors "firstName" "asc") "lastName" "asc"}}
+    {{ $name := (delimit (append (append (slice .lastName) (slice " ")) (slice .firstName)) " ")}}
+    <div class="column is-one-third">
+        <p class="is-size-5 has-text-centered">{{ $name }}</p>
+    </div>
+    {{end}}
+</div>
+
+<!-- resume Markdown formatting block -->
+<div class="content">
