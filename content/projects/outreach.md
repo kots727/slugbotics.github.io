@@ -2,7 +2,7 @@
 title: "Outreach"
 subtitle: "Reaching out to our community"
 promoimg: "outreach.jpg"
-priority: 4
+priority: 5
 ---
 
 At Slugbotics, we aim to bring everyone into the fold of robotics. This means

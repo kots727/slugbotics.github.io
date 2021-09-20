@@ -1,6 +1,6 @@
 ---
 title: ""
-bannertext: ""
-bannerURL: ""
+bannertext: "Join"
+bannerURL: "/join"
 ---
 

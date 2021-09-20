@@ -3,14 +3,6 @@ title: "Join"
 subtitle: "Here are the opportunities you'll have on Slugbotics"
 promoimg: "joincrop.jpg"
 ---
-
-**Note: We have concluded recruiting new members for the 2020-21 school
-year, and will not be bringing in new members for onboarding. If you are
-still interested in interacting with us, or have prior experience and
-would like to join the team, contact us at slugbotics@ucsc.edu**
-
----
-
 # Join Slugbotics
 We're glad that you're interested in joining our team! Here at Slugbotics, we
 wish to bring every aspiring engineer into the field of robotics, regardless
@@ -98,11 +90,26 @@ technologies such as ML (neural networks) and LIDAR. You'll learn how to apply
 different advanced technologies, from computer vision to deep learning.
 
 We recommend joining this division if you're interested in learning the advanced
-technologies which drive autonomous robotics. It also offers an exciting
+technologies which drive autonomous robotics, particularly in the context of cars. It also offers an exciting
 opportunity to learn from graduate students and faculty about technologies used
 in robotics and control research.
 
 For more information, see the [Formula 1/10 Project Page]({{< ref "/projects/formula1tenth">}})
+
+{{< image-banner "/images/about/promo/somars2.jpg" >}}
+## SOMARS
+**FRC Equivalent: Auto**
+
+In partnership with CITRIS and professor Steve McGuire, we now have a new branch of our team dedicated to autonomous robotics, focusing on autonomous robotics and control
+challenges for the CITRIS competitions. This gives members an opportunity to 
+compete against other CITRIS teams from UC Berkeley, UC Davis, and UC Merced. This
+year's competition, the CITRIS Aviation Prize, will focus on designing and
+developing a long-range UAV (unmanned aerial vehicle).
+
+We recommend joining this division if you're interested in autonomous competitions,
+as well as interacting and learning from faculty and the CITRIS Institute.
+
+For more information, see the [SOMARS Project Page]({{< ref "/projects/somars">}})
 
 {{<image-banner "/images/join/busicrop.jpg">}}
 ## Finance
@@ -130,10 +137,35 @@ On the Outreach subteam, you'll work to create projects and events to introduce
 a broad set of students to robotics.
 
 # How to Join
-We take in new members at the beginning of Fall quarter. We've concluded
-recruiting new members for this year, and will take in more members for
-onboarding in Fall 2021.
+The link below will take you to a Google form where you can register your
+interest for the team. Once you register your interest, you will be given a link
+on the form that will allow you to sign up for our Slack. Slack is a group
+messaging platform that we use to communicate on Slugbotics. This will let you
+get in touch with us, as well as others joining the team!
 
-If you are still interested in interacting with us, or have prior experience
-and would like to try and join our team, contact us at
-slugbotics@ucsc.edu
+If you submitted the form but did not get a link (or clicked past it), we will
+send you an invite via email within 24 hours of your submission.
+
+[Click here to join!](https://docs.google.com/forms/d/e/1FAIpQLSdl1VBfipFZEZYDGL3U6Yo3XHfU0zrL5S2MX5EPglgIQZEcLA/viewform?usp=sf_link)
+
+## Introductory Meetings
+Two introductory meetings will be held. One will be in person at UC Santa Cruz,
+and the other will be remote, to accomodate everyone regardless of living
+situation. Both meetings will contain the same content, so you do not need to
+attend both - instead, pick whichever one is more convenient for you.
+
+### Remote Meeting
+Wednesday, September 22, 2021 @ 7PM, on Zoom.
+
+*Zoom link TBA.*
+
+### In-person meeting
+Saturday, September 25 2021 @ 3-4 PM, at E2-180 (The Simularium).
+
+To find the Simularium, go to outside of the Engineering 2, and find the
+large room to the bottom right of Engineering 2 (facing the front of the 
+building from Baskin Engineering). It will be located on the first floor,
+in the separate buildings, below the second floor (which houses the open
+counters)
+
+{{<bottombanner "Click here to join the team" "https://docs.google.com/forms/d/e/1FAIpQLSdl1VBfipFZEZYDGL3U6Yo3XHfU0zrL5S2MX5EPglgIQZEcLA/viewform?usp=sf_link">}}
