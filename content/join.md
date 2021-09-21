@@ -157,7 +157,7 @@ attend both - instead, pick whichever one is more convenient for you.
 ### Remote Meeting
 Wednesday, September 22, 2021 @ 7PM, on Zoom.
 
-*Zoom link TBA.*
+Zoom link: https://ucsc.zoom.us/s/97853696213 (UCSC Login required)
 
 ### In-person meeting
 Saturday, September 25 2021 @ 3-4 PM, at E2-180 (The Simularium).
