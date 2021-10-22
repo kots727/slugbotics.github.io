@@ -3,6 +3,9 @@ title: "Join"
 subtitle: "Here are the opportunities you'll have on Slugbotics"
 promoimg: "joincrop.jpg"
 ---
+
+**NOTE: We are no longer accepting members for the 2021-2022 season. See the
+bottom of this page for details.**
 # Join Slugbotics
 We're glad that you're interested in joining our team! Here at Slugbotics, we
 wish to bring every aspiring engineer into the field of robotics, regardless
@@ -137,35 +140,8 @@ On the Outreach subteam, you'll work to create projects and events to introduce
 a broad set of students to robotics.
 
 # How to Join
-The link below will take you to a Google form where you can register your
-interest for the team. Once you register your interest, you will be given a link
-on the form that will allow you to sign up for our Slack. Slack is a group
-messaging platform that we use to communicate on Slugbotics. This will let you
-get in touch with us, as well as others joining the team!
-
-If you submitted the form but did not get a link (or clicked past it), we will
-send you an invite via email within 24 hours of your submission.
-
-[Click here to join!](https://docs.google.com/forms/d/e/1FAIpQLSdl1VBfipFZEZYDGL3U6Yo3XHfU0zrL5S2MX5EPglgIQZEcLA/viewform?usp=sf_link)
-
-## Introductory Meetings
-Two introductory meetings will be held. One will be in person at UC Santa Cruz,
-and the other will be remote, to accomodate everyone regardless of living
-situation. Both meetings will contain the same content, so you do not need to
-attend both - instead, pick whichever one is more convenient for you.
-
-### Remote Meeting
-Wednesday, September 22, 2021 @ 7PM, on Zoom.
-
-Zoom link: https://ucsc.zoom.us/s/97853696213 (UCSC Login required)
-
-### In-person meeting
-Saturday, September 25 2021 @ 3-4 PM, at E2-180 (The Simularium).
-
-To find the Simularium, go to outside of the Engineering 2, and find the
-large room to the bottom right of Engineering 2 (facing the front of the 
-building from Baskin Engineering). It will be located on the first floor,
-in the separate buildings, below the second floor (which houses the open
-counters)
-
-{{<bottombanner "Click here to join the team" "https://docs.google.com/forms/d/e/1FAIpQLSdl1VBfipFZEZYDGL3U6Yo3XHfU0zrL5S2MX5EPglgIQZEcLA/viewform?usp=sf_link">}}
+We are no longer accepting members for the 2021-2022 school year. While we would
+like to continue accepting as many members as possible, it is not feasible to
+onboard members at this point, due to how far through that process we are. If
+you would still like to join, and have relevant experience for the above fields,
+you may contact us from our {{< ref "contact" >}} page.
