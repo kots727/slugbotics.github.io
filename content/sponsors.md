@@ -16,7 +16,7 @@ new leadership this year.
 
 To maximize your impact, make your donation from 12PM-2PM, to help Slugbotics
 potentially win bonus funding from the University. Even the minimum donation of
-$10 helps our team massively towards obtaining this crucial bonus funding.
+$5 helps our team massively towards obtaining this crucial bonus funding.
 
 Giving Day donations are tax-deductible, and will be credited on our website as
 a token of thanks. We hope to have your support in continuing to push forward
