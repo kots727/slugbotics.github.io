@@ -1,6 +1,6 @@
 ---
 title: ""
-bannertext: ""
-bannerURL: ""
+bannertext: "Donate to our team for Giving Day 2021"
+bannerURL: "/sponsors"
 ---
 
