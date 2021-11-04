@@ -5,4 +5,4 @@ title = "Slugbotics"
 ignoreFiles = ["\\.gitkeep"]
 
 [params]
-    Highlight = "Sponsors"
+    # Highlight = "Sponsors"
