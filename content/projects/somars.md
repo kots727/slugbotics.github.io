@@ -15,6 +15,10 @@ of Autonomous Robotics Systems). It now works in collaboration with the CITRIS
 Institute and professor Steve McGuire, competing in CITRIS competitions against
 teams from UC Berkeley, UC Davis, and UC Merced.
 
-Our current project is the CITRIS Aviation Prize, a competition in which teams design and develop
+Our latest project is the CITRIS Aviation Prize, a competition in which teams design and develop
 an UAV (unmanned aerial vehicle) capable of traveling 115 miles and performing multi-acre
-environmental surveys. 
+environmental surveys.
+
+{{< image-block "/images/about/promo/somars3.jpg" >}}
+
+We did not win the CITRIS Aviation Prize, however we gained valuable expereince in avionics and UAVs.

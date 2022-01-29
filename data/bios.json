@@ -1,42 +1,10 @@
-[
-    {
-      "firstName": "Andrew",
-      "lastName": "Gavgavian",
-      "pronouns": "he/him",
-      "bio": "Andrew is a Computer Science major in his third year here at UCSC and Slugbotics. He is in charge of Network Communications, User Experience, and helps in the autonomous department. He took charge of designing the network interface for the 2018-2019 ROV and Computer Vision tasks. In addition to participating on the team and his studies, he also enjoys working with friends on fun projects, watching movies and television, and playing video games.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "yes"
-    },
-    {
-      "firstName": "Theo",
-      "lastName": "Kell",
-      "pronouns": "he/him",
-      "bio": "Theo is a fourth year student in the Technology and Information Management program. He's been with the team since the beginning, and currently is in charge of topside electronics on the MATE ROV. He also has a variety of other incongruous duties, including lab safety manager, designated team photographer, and calendar encourager. Theo has been competing in MATE since high school, and plans to be involved for a long time. Outside of robotics, he enjoys bicycling, model trains, and preserving old computers.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "yes"
-    },
+{
+  "current": [
     {
       "firstName": "Jack",
       "lastName": "Lin",
       "pronouns": "he/him",
       "bio": "Jack is both a third year Electrical Engineering student as well as a third year Slugbotics member. He co-leads the frame design and works on the onboard systems of the ROV. Aside from his contributions to Slugbotics, Jack enjoys reading novels and programming.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "yes"
-    },
-    {
-      "firstName": "Ryan",
-      "lastName": "Meckel",
-      "pronouns": "he/him",
-      "bio": "Ryan is a fourth year Business Management and Economics student and one of Slugbotics' founding members. Currently serving as business lead, he . In his free time, Ryan enjoys video games, reading, mountain biking, and learning about other countries.",
       "linkedin": "",
       "github": "",
       "gitlab": "",
@@ -154,142 +122,10 @@
       "admin": "no"
     },
     {
-      "firstName": "Carl",
-      "lastName": "Vincent Cuyos",
-      "pronouns": "he/him",
-      "bio": "Carl is currently a second year Robotics Engineering Major. He is currently affiliated with the claw and frame team. He is familiar and certified in SOLIDWORKS due to his involvement with FRC #7327 and his academy in highschool. He has an interest in mechanical design, robotics integrated programming, and technical research. Carl watches anime, reads manga, does fencing, or perhaps watch cooking/gaming videos as a hobby.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
-      "firstName": "Jeremy",
-      "lastName": "Diamzon",
-      "pronouns": "he/him",
-      "bio": "Jeremy is a fifth year Applied Physics and Pure Mathematics double major, and a member of the mechanical subteam aiding design and mathematical modelling. Although having no prior experience with a robotics club, he has worked with a team on constructing an ROV during a mechatronics class at Monterey Peninsula College aided by the local MATE organization. Currently studying and interested in pursuing research in high energy particle physics, he enjoys delving into mathematics, binging \"Jojo's Bizarre Adventure\", as well as perpetually relearning how to play the violin during his free time.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
-      "firstName": "Sophia",
-      "lastName": "Faulder",
-      "pronouns": "she/her",
-      "bio": "Sophia is a third year Robotics Engineering major. She has some experience with robotics from high school, especially with 3D printers, laser cutters, and design software, but is excited to take part in the MATE project to gain more valuable experience and knowledge. In her free time, she can be found hiking and exploring new places, doing yoga, reading, or spending quality time with friends.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
-      "firstName": "William",
-      "lastName": "Gao",
-      "pronouns": "he/him",
-      "bio": "William Gao is a second year Proposed Biomolecular Engineering student here at UCSC who has a strong interest in robotics. He currently works on the electronics design of the top side and onboard systems of the ROV.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
-      "firstName": "Edward",
-      "lastName": "Garcia",
-      "pronouns": "he/him",
-      "bio": "Edward is a second year transfer student studying computer engineering with a robotics concentration. This is his first year with the slugbotics team, and is a part of the Formula 1/10th team. In his spare time, Edward likes to play his guitar.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
-      "firstName": "Jorge",
-      "lastName": "Tapias Gomez",
-      "pronouns": "he/him",
-      "bio": "Jorge is a third year Computer Science student with an interest in machine learning. This is his first year on Slugbotics he is part of the Coral Health team, and he hopes to gain both knowledge and programming experience outside of class. Jorge enjoys video games, reading sci-fi and history books, and taking walks while listening to music.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
-      "firstName": "Adrian",
-      "lastName": "Guerra",
-      "pronouns": "he/him",
-      "bio": "Adrian is a second year Computer Science major. He was on FRC Team #2813 for 4 years in high school, where he worked on software and graphic design. This is his second year on Slugbotics, he is working on Autonomous and Systems on the team.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
-      "firstName": "Lukas",
-      "lastName": "Ho",
-      "pronouns": "he/him",
-      "bio": "A second year Applied Math minor, Lukas works on PCB design and has experience working with programming and electrical design. He also participates with business and has experience with website building. Lukas has experience working on FRC team 2984, especially with fundraising and website design.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
-      "firstName": "Sean",
-      "lastName": "Layno",
-      "pronouns": "he/him",
-      "bio": "Sean is a fourth year Computer Engineering major with an interest in mechanical machinery. This is also his fourth year with Slugbotics and is part of the mechanical team. In his free time, he enjoys playing games, art, and attending concerts.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
-      "firstName": "Monisah",
-      "lastName": "Mehtabuddin",
-      "pronouns": "she/her",
-      "bio": "Monisah is a third year Computer Engineering Major with a Robotics concentration. This is her second year with the team and is passionate about mechanics and electronics. On her spare time she loves to cook and make art.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
-      "firstName": "Seth",
-      "lastName": "Nicholson",
-      "pronouns": "he/him",
-      "bio": "Seth is a second year robotics engineering student and member of the mechanical subteam, working mostly on the design of the claw. He was the captain of the vex robotics team 8771Y for four years in high school, and has experience with programming in robotC and Java, as well as 3D printing.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
       "firstName": "Alex",
       "lastName": "Nivelle",
       "pronouns": "he/him",
       "bio": "Alex is a second year Proposed Computer Engineering student who hopes to concentrate on robotics. He is excited to learn and help develop the ROV. His interests on the team include image recognition and autonomous actions. In his free time, he enjoys watching math and physics videos on YouTube and reading fantasy novels.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
-      "firstName": "Nicole",
-      "lastName": "O'Connor",
-      "pronouns": "she/her",
-      "bio": "Nicole is a fifth year student, studying Computer Engineering with a Robotics concentration. As a member of Slugbotics, she is developing skills with ROS to contribute to the F1/10th team while also applying her knowledge of electronics and computer systems to work on the ROV's on-board systems. Nicole hopes to find a job that combines her technical education and natural creativity into a lifelong career.",
       "linkedin": "",
       "github": "",
       "gitlab": "",
@@ -319,17 +155,6 @@
       "admin": "no"
     },
     {
-      "firstName": "Zainub",
-      "lastName": "Sheikh",
-      "pronouns": "she/her",
-      "bio": "Zainub is a fourth year Computer Science major with an interest in machine learning and robotics. This is her second year in Slugbotics and is currently working with the Systems and Topside subteams. Outside of school, she enjoys being active, cooking, and hanging with friends.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
       "firstName": "Eric",
       "lastName": "Truong",
       "pronouns": "he/him",
@@ -352,16 +177,102 @@
       "admin": "yes"
     },
     {
-      "firstName": "Celeste",
-      "lastName": "Zhao",
-      "pronouns": "she/her",
-      "bio": "Celeste is a second year Computer Science major with a lot of interest in Robotics Engineering. She has previously built a chess-playing robot in her community and she would like to keep working on this field. It's her second year on the team and she's currently working on F1/10 team as well as participating in the lab. She spends most of her free time coding, learning algorithms and walking her dog.",
+      "firstName": "Neal",
+      "lastName": "Chokshi",
+      "pronouns": "he/him",
+      "bio": "Neal is a second year Computer Science major, and is a Formula 1/10 Lead on Slugbotics. On the team, he leads others in developing and testing the autonomous algorithms necessary to drive the car.",
+      "linkedin": "https://www.linkedin.com/in/neal-chokshi-73b00a192/",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "yes"
+    },
+    {
+      "firstName": "Jonathan",
+      "lastName": "Morris",
+      "pronouns": "he/him",
+      "bio": "Jonathan is of the mechanical team and manages the social media and is currently set to manage the website.",
+      "linkedin": "https://www.linkedin.com/in/jonathan-w-morris/",
+      "github": "https://github.com/JonathanWMorris",
+      "gitlab": "https://gitlab.com/JonathanWMorris",
+      "website": "https://jonathanwmorris.github.io/portfolio-react/#/",
+      "admin": "no"
+    },
+    {
+      "firstName": "Eliot",
+      "lastName": "Wachtel",
+      "pronouns": "he/him",
+      "bio": "Eliot is the Slugbotics electrical lead, SOMARS project co-lead, and an overall robotics and manufacturing enthusiast.",
       "linkedin": "",
+      "github": "https://github.com/TheHolyQuail",
+      "gitlab": "",
+      "website": "",
+      "admin": "yes"
+    },
+    {
+      "firstName": "Indy",
+      "lastName": "Spott",
+      "pronouns": "she/her",
+      "bio": "Indy is a first year computer engineering student and a first year Slugbotics member. As a member, she is hoping to work with her passion for electronics and robotics systems to eventually turn into a fun and creation-filled career. She enjoys playing indie games, building LEGO's, and reading in her free time. ",
+      "linkedin": "https://www.linkedin.com/in/india-spott/",
       "github": "",
       "gitlab": "",
       "website": "",
       "admin": "no"
     },
+    {
+      "firstName": "Ben",
+      "lastName": "Holm",
+      "pronouns": "he/him",
+      "bio": "Ben is a fourth-year robotics engineering major at Slugbotics.",
+      "linkedin": "https://www.linkedin.com/in/ben-holm-b55337226/",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Ishan",
+      "lastName": "Madan",
+      "pronouns": "he/him",
+      "bio": "Ishan is a computer science major learning about computer vision applications on the software side of the MATE ROV project. He's also working on electrical and software for the Battlebots sub-team and the Bus Tracker project.",
+      "linkedin": "https://www.linkedin.com/in/ben-holm-b55337226/",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Andrew",
+      "lastName": "Gavgavian",
+      "pronouns": "he/him",
+      "bio": "Andrew is a fourth year computer science student participating with the team for his fourth year. A previous software and networking lead for Slugbotics, Andrew now focuses on assisting others with bug fixes and development of the main control systems.",
+      "linkedin": "linkedin.com/in/agavgavi/",
+      "github": "github.com/agavgavi/",
+      "gitlab": "",
+      "website": "https://gavgavian.com/",
+      "admin": "yes"
+    },
+    {
+      "firstName": "Evan",
+      "lastName": "Clark",
+      "pronouns": "he/him",
+      "bio": "Evan is a third year Computer Science major. He is working on the software part of the team to help develop the topside and autonomous systems.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    }
+  ],
+
+
+
+
+
+
+
+  "alumni": [
     {
       "firstName": "Lance",
       "lastName": "Zhu",
@@ -374,14 +285,180 @@
       "admin": "no"
     },
     {
-        "firstName": "Neal",
-        "lastName": "Chokshi",
-        "pronouns": "he/him",
-        "bio": "Neal is a second year Computer Science major, and is a Formula 1/10 Lead on Slugbotics. On the team, he leads others in developing and testing the autonomous algorithms necessary to drive the car.",
-        "linkedin": "https://www.linkedin.com/in/neal-chokshi-73b00a192/",
-        "github": "",
-        "gitlab": "",
-        "website": "",
-        "admin": "yes"
+      "firstName": "Celeste",
+      "lastName": "Zhao",
+      "pronouns": "she/her",
+      "bio": "Celeste is a second year Computer Science major with a lot of interest in Robotics Engineering. She has previously built a chess-playing robot in her community and she would like to keep working on this field. It's her second year on the team and she's currently working on F1/10 team as well as participating in the lab. She spends most of her free time coding, learning algorithms and walking her dog.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Zainub",
+      "lastName": "Sheikh",
+      "pronouns": "she/her",
+      "bio": "Zainub is a fourth year Computer Science major with an interest in machine learning and robotics. This is her second year in Slugbotics and is currently working with the Systems and Topside subteams. Outside of school, she enjoys being active, cooking, and hanging with friends.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Nicole",
+      "lastName": "O'Connor",
+      "pronouns": "she/her",
+      "bio": "Nicole is a fifth year student, studying Computer Engineering with a Robotics concentration. As a member of Slugbotics, she is developing skills with ROS to contribute to the F1/10th team while also applying her knowledge of electronics and computer systems to work on the ROV's on-board systems. Nicole hopes to find a job that combines her technical education and natural creativity into a lifelong career.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Seth",
+      "lastName": "Nicholson",
+      "pronouns": "he/him",
+      "bio": "Seth is a second year robotics engineering student and member of the mechanical subteam, working mostly on the design of the claw. He was the captain of the vex robotics team 8771Y for four years in high school, and has experience with programming in robotC and Java, as well as 3D printing.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Monisah",
+      "lastName": "Mehtabuddin",
+      "pronouns": "she/her",
+      "bio": "Monisah is a third year Computer Engineering Major with a Robotics concentration. This is her second year with the team and is passionate about mechanics and electronics. On her spare time she loves to cook and make art.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Sean",
+      "lastName": "Layno",
+      "pronouns": "he/him",
+      "bio": "Sean is a fourth year Computer Engineering major with an interest in mechanical machinery. This is also his fourth year with Slugbotics and is part of the mechanical team. In his free time, he enjoys playing games, art, and attending concerts.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Lukas",
+      "lastName": "Ho",
+      "pronouns": "he/him",
+      "bio": "A second year Applied Math minor, Lukas works on PCB design and has experience working with programming and electrical design. He also participates with business and has experience with website building. Lukas has experience working on FRC team 2984, especially with fundraising and website design.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Adrian",
+      "lastName": "Guerra",
+      "pronouns": "he/him",
+      "bio": "Adrian is a second year Computer Science major. He was on FRC Team #2813 for 4 years in high school, where he worked on software and graphic design. This is his second year on Slugbotics, he is working on Autonomous and Systems on the team.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },    
+    {
+      "firstName": "Jorge",
+      "lastName": "Tapias Gomez",
+      "pronouns": "he/him",
+      "bio": "Jorge is a third year Computer Science student with an interest in machine learning. This is his first year on Slugbotics he is part of the Coral Health team, and he hopes to gain both knowledge and programming experience outside of class. Jorge enjoys video games, reading sci-fi and history books, and taking walks while listening to music.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Edward",
+      "lastName": "Garcia",
+      "pronouns": "he/him",
+      "bio": "Edward is a second year transfer student studying computer engineering with a robotics concentration. This is his first year with the slugbotics team, and is a part of the Formula 1/10th team. In his spare time, Edward likes to play his guitar.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "William",
+      "lastName": "Gao",
+      "pronouns": "he/him",
+      "bio": "William Gao is a second year Proposed Biomolecular Engineering student here at UCSC who has a strong interest in robotics. He currently works on the electronics design of the top side and onboard systems of the ROV.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Faulder",
+      "pronouns": "she/her",
+      "bio": "Sophia is a third year Robotics Engineering major. She has some experience with robotics from high school, especially with 3D printers, laser cutters, and design software, but is excited to take part in the MATE project to gain more valuable experience and knowledge. In her free time, she can be found hiking and exploring new places, doing yoga, reading, or spending quality time with friends.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Ryan",
+      "lastName": "Meckel",
+      "pronouns": "he/him",
+      "bio": "Ryan is a fourth year Business Management and Economics student and one of Slugbotics' founding members. Currently serving as business lead, he . In his free time, Ryan enjoys video games, reading, mountain biking, and learning about other countries.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "yes"
+    },
+    {
+      "firstName": "Carl",
+      "lastName": "Vincent Cuyos",
+      "pronouns": "he/him",
+      "bio": "Carl is currently a second year Robotics Engineering Major. He is currently affiliated with the claw and frame team. He is familiar and certified in SOLIDWORKS due to his involvement with FRC #7327 and his academy in highschool. He has an interest in mechanical design, robotics integrated programming, and technical research. Carl watches anime, reads manga, does fencing, or perhaps watch cooking/gaming videos as a hobby.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Jeremy",
+      "lastName": "Diamzon",
+      "pronouns": "he/him",
+      "bio": "Jeremy is a fifth year Applied Physics and Pure Mathematics double major, and a member of the mechanical subteam aiding design and mathematical modelling. Although having no prior experience with a robotics club, he has worked with a team on constructing an ROV during a mechatronics class at Monterey Peninsula College aided by the local MATE organization. Currently studying and interested in pursuing research in high energy particle physics, he enjoys delving into mathematics, binging \"Jojo's Bizarre Adventure\", as well as perpetually relearning how to play the violin during his free time.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Theo",
+      "lastName": "Kell",
+      "pronouns": "he/him",
+      "bio": "Theo is a fourth year student in the Technology and Information Management program. He's been with the team since the beginning, and currently is in charge of topside electronics on the MATE ROV. He also has a variety of other incongruous duties, including lab safety manager, designated team photographer, and calendar encourager. Theo has been competing in MATE since high school, and plans to be involved for a long time. Outside of robotics, he enjoys bicycling, model trains, and preserving old computers.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "yes"
     }
   ]
+}

@@ -1,35 +1,60 @@
 <!-- Break Markdown formatting block -->
 </div>
+<hr>
+<h1 class="title">Team Leads</h1>
 
-<script>
+<script>    
     slugbotics_modal_presentation = (id) => {
         document.getElementById(id).classList.toggle("is-active");
     }
 </script>
 
 <div class="columns is-variable is-7">
-
-{{$biocount := 0}}
-{{range where (sort (sort $.Site.Data.bios "firstName" "asc") "lastName" "asc")  "admin" "yes"}}
+    {{$biocount := 0}}
+    {{range where (sort (sort $.Site.Data.bios.current "firstName" "asc") "lastName" "asc") "admin" "yes"}}
     <!-- Partial for given context -->
     {{ partial "bio" (dict "context" . "biocount" $biocount)}}
 
     <!-- Increment -->
     {{$biocount = (add $biocount 1)}}
-{{end}}
+    {{end}}
 </div>
 
 <hr>
+<h1 class="title">Members</h1>
 
 <div class="columns is-variable is-7">
-{{$biocount = 0}}
-{{range where (sort (sort $.Site.Data.bios "firstName" "asc") "lastName" "asc")  "admin" "!=" "yes"}}
+    {{$biocount = 0}}
+    {{range where (sort (sort $.Site.Data.bios.current "firstName" "asc") "lastName" "asc") "admin" "!=" "yes"}}
     <!-- Partial for given context -->
     {{ partial "bio" (dict "context" . "biocount" $biocount)}}
 
     <!-- Increment -->
     {{$biocount = (add $biocount 1)}}
-{{end}}
+    {{end}}
+</div>
+
+<hr>
+<h1 class="title">Alumni</h1>
+<div class="columns is-variable is-7">
+    {{$biocount = 0}}
+    {{range where (sort (sort $.Site.Data.bios.alumni "firstName" "asc") "lastName" "asc") "admin" "yes"}}
+    <!-- Partial for given context -->
+    {{ partial "bio" (dict "context" . "biocount" $biocount)}}
+
+    <!-- Increment -->
+    {{$biocount = (add $biocount 1)}}
+    {{end}}
+</div>
+<div class="columns is-variable is-7">
+    {{$biocount = 0}}
+    {{range where (sort (sort $.Site.Data.bios.alumni "firstName" "asc") "lastName" "asc") "admin" "!=" "yes"}}
+    <!-- Partial for given context -->
+    {{ partial "bio" (dict "context" . "biocount" $biocount)}}
+
+    <!-- Increment -->
+    {{$biocount = (add $biocount 1)}}
+    {{end}}
 </div>
 
 <!-- resume Markdown formatting block -->

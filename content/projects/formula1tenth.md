@@ -15,6 +15,8 @@ partnership with UCSC’s Cyber-Physical Systems Research Center, Slugbotics
 members in the F1TENTH competition apply technologies such as LIDAR/SLAM, ROS,
 Rviz, and Gazebo to develop their car.
 
+{{< image-block "/images/about/promo/f1tenth2.jpg" >}}
+
 # How does the F1TENTH Competition work?
 To prepare for competition students learn about ROS through interactive labs
 which primes them for learning about the perception, planning and control of the
@@ -23,6 +25,8 @@ advantage of the various sensors available to reliably race around a given
 track. Competitions take place around the world, where teams compete in time
 trials to qualify and seed for the Grand Prix where the vehicles are pit against
 each other in head to head battles. 
+
+{{< image-block "/images/about/promo/f1tenth3.jpg" >}}
 
 # What do students gain from the F1TENTH competition?
 Through participating in F1TENTH, students will gain experience with tools that

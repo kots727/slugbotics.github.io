@@ -6,6 +6,7 @@ promoimg: "joincrop.jpg"
 
 **NOTE: We are no longer accepting members for the 2021-2022 season. See the
 bottom of this page for details.**
+
 # Join Slugbotics
 We're glad that you're interested in joining our team! Here at Slugbotics, we
 wish to bring every aspiring engineer into the field of robotics, regardless
@@ -21,6 +22,7 @@ Slugbotics is divided into several different major roles, each of which
 contributes to the development of our robots, and the team itself.
 
 {{<image-banner "/images/join/mechanical.jpg">}}
+
 ## Mechanical
 **FRC Equivalent: CAD, Design**
 
@@ -41,6 +43,7 @@ We recommend this subteam for hands-on experience with building robots, and for
 those interested in complementing their studies with knowledge of mechanics.
 
 {{<image-banner "/images/join/eleccrop.jpg">}}
+
 ## Electronics
 **FRC Equivalent: Electrical**
 
@@ -61,6 +64,7 @@ interested in complementing a knowledge of software systems with the underlying
 hardware.
 
 {{<image-banner "/images/join/systems.jpg">}}
+
 ## Systems
 **FRC Equivalent: Software, Auto, Programming, Coding**
 
@@ -82,6 +86,7 @@ also learn embedded programming skills, including working with Arduino and
 microcontrollers, for integrating software into robotics projects.
 
 {{<image-banner "/images/join/f110crop.jpg">}}
+
 ## Formula 1/10
 **FRC Equivalent: Auto**
 
@@ -100,6 +105,7 @@ in robotics and control research.
 For more information, see the [Formula 1/10 Project Page]({{< ref "/projects/formula1tenth">}})
 
 {{< image-banner "/images/about/promo/somars2.jpg" >}}
+
 ## SOMARS
 **FRC Equivalent: Auto**
 
@@ -115,6 +121,7 @@ as well as interacting and learning from faculty and the CITRIS Institute.
 For more information, see the [SOMARS Project Page]({{< ref "/projects/somars">}})
 
 {{<image-banner "/images/join/busicrop.jpg">}}
+
 ## Finance
 **FRC Equivalent: Business, Outreach**
 
@@ -127,6 +134,7 @@ make contributions to furthering the team's capabilities and to policy decisions
 within the team.
 
 {{<image-banner "/images/join/outban.jpg">}}
+
 ## Outreach
 **FRC Equivalent: Outreach**
 

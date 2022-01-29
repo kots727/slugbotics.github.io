@@ -3,7 +3,7 @@ title: "Attributions"
 subtitle: "This website uses the following libraries under their respective licenses"
 ---
 
-# Bulma (MIT)
+## Bulma (MIT)
 
 ```
 The MIT License (MIT)
@@ -29,7 +29,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
-# FontAwesome Free (OFL)
+## FontAwesome Free (OFL)
 
 ```
 -----------------------------------------------------------
