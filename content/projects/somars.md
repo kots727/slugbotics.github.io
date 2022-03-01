@@ -21,4 +21,4 @@ environmental surveys.
 
 {{< image-block "/images/about/promo/somars3.jpg" >}}
 
-We did not win the CITRIS Aviation Prize, however we gained valuable expereince in avionics and UAVs.
+We did not win the Aviation price however, we are helping the competition winners, UC Merced, with a few components of the project!

@@ -35,7 +35,7 @@
 </div>
 
 <hr>
-<h1 class="title">Alumni</h1>
+<h1 class="title">Slugbotics Alumni</h1>
 <div class="columns is-variable is-7">
     {{$biocount = 0}}
     {{range where (sort (sort $.Site.Data.bios.alumni "firstName" "asc") "lastName" "asc") "admin" "yes"}}

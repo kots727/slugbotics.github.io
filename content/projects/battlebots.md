@@ -1,7 +1,7 @@
 ---
 title: "Battle Bots"
 subtitle: "Combat Robotics at UCSC"
-promoimg: "battlebots_cover.webp"
+promoimg: "slugger-front.JPG"
 priority: 5
 ---
 
@@ -18,9 +18,15 @@ build a battle bot and it helped shaped our expectations for the future.
 
 {{<image-block "/images/battlebots/Isometric Top Open with Backgorund.JPG">}}
 
-{{<image-block "/images/battlebots/slugger.png">}}
+We were succecufully able to compete in the 2022 Sacramento Bot Battles and fight 2 teams there. One team we beat was Team Flagship from UCLA.
+Here is a youtube video of the competition!
+{{<video-block "https://www.youtube.com/embed/HDQjG8A2zHQ">}}
+
+We will use everything we have learned from this year's competition and advice we have received to build a better bot in the future!
+
+{{<image-block "/images/battlebots/slugger-bot.jpg">}}
 
 # Sponsorship
 
-We are always looking for sponsors to help drive our inovation. If you are interested in
+We are always looking for sponsors to help drive our inovation and education! If you are interested in
 sponsoring us, please feel free to contact slugbotics@ucsc.edu

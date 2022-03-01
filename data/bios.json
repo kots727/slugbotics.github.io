@@ -12,17 +12,6 @@
       "admin": "yes"
     },
     {
-      "firstName": "Robert",
-      "lastName": "Meier",
-      "pronouns": "he/him",
-      "bio": "Robert is a fourth year Robotics Engineering student. This is Robert's second year with Slugbotics. He is the F1/10 team leader and helps out the MATE team with CADing and writing topside and autonomous code. Robert is excited to see just how fast the 1/10 scale car can go. When he isn't working on schoolwork or robotics, Robert enjoys watching movies, playing video games and going out into nature to hike.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "yes"
-    },
-    {
       "firstName": "Wren",
       "lastName": "Sakai",
       "pronouns": "he/him",
@@ -34,43 +23,10 @@
       "admin": "yes"
     },
     {
-      "firstName": "Isaac",
-      "lastName": "Trimble-Pederson",
-      "pronouns": "he/him",
-      "bio": "Isaac is a third year team member working with anything software, with a focus on autonomous, topside, and onboarding. Isaac joined the team during Year 1, and worked on the Raspberry Pi / Arduino communications on BIG SLAB.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "yes"
-    },
-    {
       "firstName": "Rohan",
       "lastName": "Tuli",
       "pronouns": "he/him",
       "bio": "Rohan is a fourth year Technology & Information Management major. In addition to being founder and President, he also leads the onboard electronics and electronic speed controller sub-teams. This is his sixth year in the MATE competition. In his free time, Rohan enjoys bicycling, low-level programming, graphic design, and public transportation.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "yes"
-    },
-    {
-      "firstName": "Daniel",
-      "lastName": "Walton",
-      "pronouns": "he/him",
-      "bio": "Daniel is a fourth year student majoring in Robotics Engineering and a third year Slugbotics member. Daniel specializes in mechanical and electrical related tasks for Slugbotics, having lead the development of the micro-ROV in the 2018-2019 competition.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "yes"
-    },
-    {
-      "firstName": "Ash",
-      "lastName": "Whipple",
-      "pronouns": "they/them",
-      "bio": "Ash is a third year Electrical Engineering major. This is their second year on the mechanical team with Slugbotics. Ash loves spending time outside, whether it be hiking, surfing, or scuba diving. They hope to combine their love for the outdoors and robotics into an adventure filled career.",
       "linkedin": "",
       "github": "",
       "gitlab": "",
@@ -111,17 +67,6 @@
       "admin": "no"
     },
     {
-      "firstName": "Matthew",
-      "lastName": "Bennett",
-      "pronouns": "he/him",
-      "bio": "Matthew is a fourth year Computer Engineering student. This is his second year participating in MATE. He works with several sections of the team including topside electronics, mechanical design and manufacturing, and business management. Outside of the team he enjoys driving, podcasts, and reading.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
       "firstName": "Alex",
       "lastName": "Nivelle",
       "pronouns": "he/him",
@@ -130,7 +75,7 @@
       "github": "",
       "gitlab": "",
       "website": "",
-      "admin": "no"
+      "admin": "yes"
     },
     {
       "firstName": "Demetrius",
@@ -265,13 +210,6 @@
       "admin": "no"
     }
   ],
-
-
-
-
-
-
-
   "alumni": [
     {
       "firstName": "Lance",
@@ -439,6 +377,17 @@
       "admin": "no"
     },
     {
+      "firstName": "Ash",
+      "lastName": "Whipple",
+      "pronouns": "they/them",
+      "bio": "Ash is a third year Electrical Engineering major. This is their second year on the mechanical team with Slugbotics. Ash loves spending time outside, whether it be hiking, surfing, or scuba diving. They hope to combine their love for the outdoors and robotics into an adventure filled career.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "yes"
+    },
+    {
       "firstName": "Jeremy",
       "lastName": "Diamzon",
       "pronouns": "he/him",
@@ -450,10 +399,54 @@
       "admin": "no"
     },
     {
+      "firstName": "Matthew",
+      "lastName": "Bennett",
+      "pronouns": "he/him",
+      "bio": "Matthew is a fourth year Computer Engineering student. This is his second year participating in MATE. He works with several sections of the team including topside electronics, mechanical design and manufacturing, and business management. Outside of the team he enjoys driving, podcasts, and reading.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
+    },
+    {
+      "firstName": "Isaac",
+      "lastName": "Trimble-Pederson",
+      "pronouns": "he/him",
+      "bio": "Isaac is a third year team member working with anything software, with a focus on autonomous, topside, and onboarding. Isaac joined the team during Year 1, and worked on the Raspberry Pi / Arduino communications on BIG SLAB.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "yes"
+    },
+    {
       "firstName": "Theo",
       "lastName": "Kell",
       "pronouns": "he/him",
       "bio": "Theo is a fourth year student in the Technology and Information Management program. He's been with the team since the beginning, and currently is in charge of topside electronics on the MATE ROV. He also has a variety of other incongruous duties, including lab safety manager, designated team photographer, and calendar encourager. Theo has been competing in MATE since high school, and plans to be involved for a long time. Outside of robotics, he enjoys bicycling, model trains, and preserving old computers.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "yes"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Walton",
+      "pronouns": "he/him",
+      "bio": "Daniel is a fourth year student majoring in Robotics Engineering and a third year Slugbotics member. Daniel specializes in mechanical and electrical related tasks for Slugbotics, having lead the development of the micro-ROV in the 2018-2019 competition.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "yes"
+    },
+    {
+      "firstName": "Robert",
+      "lastName": "Meier",
+      "pronouns": "he/him",
+      "bio": "Robert is a fourth year Robotics Engineering student. This is Robert's second year with Slugbotics. He is the F1/10 team leader and helps out the MATE team with CADing and writing topside and autonomous code. Robert is excited to see just how fast the 1/10 scale car can go. When he isn't working on schoolwork or robotics, Robert enjoys watching movies, playing video games and going out into nature to hike.",
       "linkedin": "",
       "github": "",
       "gitlab": "",
