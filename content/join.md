@@ -32,14 +32,14 @@ and test props. We design these parts using CAD (computer assisted design)
 software, and fabricate them using 3D printers and other machines. We also test
 different designs through extensive prototyping and hands-on experimentation.
 
-On the Mechanical subteam, you will learn the basics of modelling and design
+On the Mechanical sub-team, you will learn the basics of modelling and design
 using SOLIDWORKS, as well as work to create simple and effective designs which
 reduce the complexity needed across the ROV. You'll also learn how to fabricate
 different parts using various tools and machines. These skills are seldom
 offered in courses - UCSC lacks a mechanical engineering department - so the
 work done here is something you can't get anywhere else at UCSC.
 
-We recommend this subteam for hands-on experience with building robots, and for
+We recommend this sub-team for hands-on experience with building robots, and for
 those interested in complementing their studies with knowledge of mechanics.
 
 {{<image-banner "/images/join/eleccrop.jpg">}}
@@ -52,14 +52,14 @@ ROV, including sensor layouts, power conversion, network wiring, motor control,
 cameras, and more. We design these parts using circuit design software, and
 prototype them through a combination of hands-on testing and circuit analysis.
 
-On the Electronics subteam, you'll learn the basics of circuit design using
+On the Electronics sub-team, you'll learn the basics of circuit design using
 EAGLE, and create electrical designs which wire the different components of the
 ROV together, while meeting constraints such as thermal limits. You'll also
 learn the basics of hands-on electronics construction, such as soldering,
 crimping, and waterproofing.
 
-We recommend this subteam for experience in designing hardware and learning the
-basics of Electrical Engineering. We also recommend this subteam for programmers
+We recommend this sub-team for experience in designing hardware and learning the
+basics of Electrical Engineering. We also recommend this sub-team for programmers
 interested in complementing a knowledge of software systems with the underlying
 hardware.
 
@@ -75,12 +75,12 @@ Development, Computer Vision, networking, and autonomous decision-making. This
 role also works closely with the Electronics role, helping to implement the
 logic which connects the different devices onboard.
 
-On the Systems subteam, you'll learn a broad set of skills relating to computer
+On the Systems sub-team, you'll learn a broad set of skills relating to computer
 systems and programming, and apply them to create better systems for the ROV.
 You'll also learn the basics of robotics systems, including basics of topics
 such as Computer Vision (not offered as an undergraduate course at UCSC).
 
-We recommend the Systems subteam to those who are interested in learning how to
+We recommend the Systems sub-team to those who are interested in learning how to
 apply their programming skills to robotics using UNIX, OpenCV, and Qt. You'll
 also learn embedded programming skills, including working with Arduino and
 microcontrollers, for integrating software into robotics projects.
@@ -93,7 +93,7 @@ microcontrollers, for integrating software into robotics projects.
 In addition to participating in the MATE competition, we also have a branch of
 our team dedicated to the Formula 1/10 Competition, in collaboration with the
 Cyber-Physical Systems Research Center (CPSRC). This competition involves
-programming a miniature racecar to drive at top speeds across a track, using
+programming a miniature race car to drive at top speeds across a track, using
 technologies such as ML (neural networks) and LIDAR. You'll learn how to apply
 different advanced technologies, from computer vision to deep learning.
 
@@ -125,11 +125,11 @@ For more information, see the [SOMARS Project Page]({{< ref "/projects/somars">}
 ## Finance
 **FRC Equivalent: Business, Outreach**
 
-The Finance subteam manages various aspects of the team, including handling team
+The Finance sub-team manages various aspects of the team, including handling team
 finances, sourcing sponsorships, interacting with other organizations at UCSC,
 and making contributions to the future of the team.
 
-On the Finance subteam, you'll learn how to lead and manage projects, as well as
+On the Finance sub-team, you'll learn how to lead and manage projects, as well as
 make contributions to furthering the team's capabilities and to policy decisions
 within the team.
 
@@ -138,13 +138,13 @@ within the team.
 ## Outreach
 **FRC Equivalent: Outreach**
 
-The Outreach subteam helps to connect the team both to the local campus
+The Outreach sub-team helps to connect the team both to the local campus
 community, as well as to the surrounding community of Santa Cruz, to help attach
 students to robotics learning opportunities. Outreach's goal is to introduce a
 broad community to robotics and engineering, from K-12 students to other
 students at Santa Cruz.
 
-On the Outreach subteam, you'll work to create projects and events to introduce
+On the Outreach sub-team, you'll work to create projects and events to introduce
 a broad set of students to robotics.
 
 # How to Join

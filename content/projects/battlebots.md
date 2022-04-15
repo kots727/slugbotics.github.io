@@ -5,8 +5,8 @@ promoimg: "slugger-front.JPG"
 priority: 5
 ---
 
-Starting 2021, Slubotics has a new subteam focusing on Combat robotics competitions. 
-Our ultimate goal is to pottentially get into the televised show Battle Bots.
+Starting 2021, Slugbotics has a new sub-team focusing on Combat robotics competitions. 
+Our ultimate goal is to potentially get into the televised show Battle Bots.
 
 # Slugger
 
@@ -18,7 +18,7 @@ build a battle bot and it helped shaped our expectations for the future.
 
 {{<image-block "/images/battlebots/Isometric Top Open with Backgorund.JPG">}}
 
-We were succecufully able to compete in the 2022 Sacramento Bot Battles and fight 2 teams there. One team we beat was Team Flagship from UCLA.
+We were successfully able to compete in the 2022 Sacramento Bot Battles and fight 2 teams there. One team we beat was Team Flagship from UCLA.
 Here is a youtube video of the competition!
 {{<video-block "https://www.youtube.com/embed/HDQjG8A2zHQ">}}
 
@@ -28,5 +28,5 @@ We will use everything we have learned from this year's competition and advice w
 
 # Sponsorship
 
-We are always looking for sponsors to help drive our inovation and education! If you are interested in
+We are always looking for sponsors to help drive our innovation and education! If you are interested in
 sponsoring us, please feel free to contact slugbotics@ucsc.edu

@@ -8,7 +8,7 @@ priority: 2
 
 # What is F1TENTH?
 F1TENTH is an autonomous robotics competition in which teams compete by
-developing self-driving algorithms for a one-tenth scale autonomous racecar.
+developing self-driving algorithms for a one-tenth scale autonomous race car.
 Since teams use the same cars, the competition is centered around optimizing
 these algorithms to navigate around a randomized racetrack in minimum time. In
 partnership with UCSC’s Cyber-Physical Systems Research Center, Slugbotics

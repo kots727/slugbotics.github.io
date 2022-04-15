@@ -1,7 +1,7 @@
 ---
 title: "Onboarding"
 subtitle: "Sharing skills with the UCSC community"
-promoimg: "onboarding.jpg"
+promoimg: "onboarding2.jpg"
 priority: 3
 ---
 
