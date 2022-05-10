@@ -1,6 +1,6 @@
 ---
-title: "Battle Bots"
-subtitle: "Combat Robotics at UCSC"
+title: "Combat Robotics"
+subtitle: ""
 promoimg: "slugger-front.JPG"
 priority: 5
 ---
