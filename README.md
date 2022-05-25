@@ -12,7 +12,7 @@ Tutorial Playlist: <https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-li
 
 ## Deploying
 
-To deploy an update to the site, simply push to the main branch and the automation will ensure that a new github pages is compiled and published.
+To deploy an update to the site, fork this repo and then make a pull request to master. Once maintainers approve the request to the main branch, the automation will ensure that a new github pages is compiled and published.
 
 ## Maintainers
 
