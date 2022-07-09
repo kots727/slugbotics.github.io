@@ -100,17 +100,6 @@
       "admin": "no"
     },
     {
-      "firstName": "Eric",
-      "lastName": "Truong",
-      "pronouns": "he/him",
-      "bio": "Eric is a third year Computer Engineering major and a Slugbotics newcomer. He is part of the topside team, which is responsible for creating tools to control the ROV. Eric is also part of the autonomous team, which deals with computer vision and autonomous control systems. He just recently discovered his passion for creating things, be it visual arts, programming, or design. Starting the new decade with the resolution to learn everything that interests him, Eric is just beginning his journey to become a jack of all trades, master of hopefully a few, at least.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
-    },
-    {
       "firstName": "Sriram",
       "lastName": "Venkataraman",
       "pronouns": "he/him",
@@ -197,17 +186,6 @@
       "gitlab": "",
       "website": "https://gavgavian.com/",
       "admin": "yes"
-    },
-    {
-      "firstName": "Evan",
-      "lastName": "Clark",
-      "pronouns": "he/him",
-      "bio": "Evan is a third year Computer Science major. He is working on the software part of the team to help develop the topside and autonomous systems.",
-      "linkedin": "",
-      "github": "",
-      "gitlab": "",
-      "website": "",
-      "admin": "no"
     }
   ],
   "alumni": [
@@ -452,6 +430,17 @@
       "gitlab": "",
       "website": "",
       "admin": "yes"
+    },
+    {
+      "firstName": "Eric",
+      "lastName": "Truong",
+      "pronouns": "he/him",
+      "bio": "Eric is a third year Computer Engineering major and a Slugbotics newcomer. He is part of the topside team, which is responsible for creating tools to control the ROV. Eric is also part of the autonomous team, which deals with computer vision and autonomous control systems. He just recently discovered his passion for creating things, be it visual arts, programming, or design. Starting the new decade with the resolution to learn everything that interests him, Eric is just beginning his journey to become a jack of all trades, master of hopefully a few, at least.",
+      "linkedin": "",
+      "github": "",
+      "gitlab": "",
+      "website": "",
+      "admin": "no"
     }
   ]
 }

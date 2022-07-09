@@ -46,3 +46,5 @@ gain experience on Slugbotics that no lecture hall can offer.
 {{<image-block "/images/about/mate/bigslabcontrol.jpg" "BIG SLAB's Control Station">}}
 
 {{<image-block "/images/about/mate/bigslabcompetition.jpg" "Slugbotics at the 2019 MATE Competition">}}
+
+{{<image-block "/images/about/mate/2021-2022_attempt.jpeg" "Our 2021-2022 attempt">}}
