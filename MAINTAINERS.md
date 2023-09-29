@@ -1,13 +1,5 @@
 # Maintainers
 
-## Isaac Trimble-Pederson (he/him)
-
-**Lead Maintainer**
-
-### Contact
-
-itrimble@ucsc.edu | commits under wtpisaac@icloud.com
-
 ## Jonathan Morris(he/him)
 
 **Content Maintainer**
@@ -16,10 +8,10 @@ itrimble@ucsc.edu | commits under wtpisaac@icloud.com
 
 jowemorr@ucsc.edu | commits under jonathan_wellington@icloud.com
 
-## Theo Kell (he/him)
+## Nat Liu (he/him)
 
-**Hosting Administrator**
+**Developer**
 
 ### Contact
 
-tkell@ucsc.edu
+nawliu@ucsc.edu | commits under nat-leo
