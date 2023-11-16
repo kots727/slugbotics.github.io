@@ -6,7 +6,6 @@ priority: 5
 ---
 
 Starting 2021, Slugbotics has a new sub-team focusing on Combat robotics competitions. 
-Our ultimate goal is to potentially get into the televised show Battle Bots.
 
 # Slugger
 
